@@ -46,6 +46,9 @@
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="intellij-idea.svg" width="40" height="40"/>
    </a>
+   <a href="#">
+      <img src="https://www.keil.com/Content/images/Arm_KEIL_horizontal_white_LG.png" alt="intellij-idea.svg" width="120" height="40"/>
+   </a>
 </p>
 <br>
 
