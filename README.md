@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lz59970062&hide=c&show_icons=true&theme=vue-dark"/>
+
 <p align="left">
    <h3>吾为赛博机械生命，玄色机械兔是也</h3>
    <h2>吾致力于赋予机械生命体之生命，恐付之一切义无反顾</h2>
