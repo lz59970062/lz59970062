@@ -15,34 +15,34 @@
 
 <p align="left">
    <a href="#">
-      <img src="https://www.ros.org/" alt="debian" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/opencv.svg" alt="openCV" width="40" height="40"/>
    </a>
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
    </a>
    <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/kali-logo.svg" alt="fedora" width="90" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/547448?s=48&v=4" alt="fedora" width="40" height="40"/>
    </a>
    <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="c" width="40" height="40"/>
    </a>
    <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" alt="bash" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/pytorch.svg" alt="bash" width="40" height="40"/>
    </a>
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="40" height="40"/>
    </a>
    <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/rust.svg" alt="java" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/arduino.svg" alt="java" width="40" height="40"/>
    </a>
    <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/assembly.svg" alt="asm" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/tensorflow.svg" alt="asm" width="40" height="40"/>
    </a>
    <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/clion.svg" alt="clion" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="clion" width="40" height="40"/>
    </a>
    <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/intellij-idea.svg" alt="intellij-idea.svg" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="intellij-idea.svg" width="40" height="40"/>
    </a>
 </p>
 <br>
@@ -53,3 +53,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lily-Robot/lily-Robot/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lily-Robot/lily-Robot/output/github-contribution-grid-snake.svg">
 </picture>
+
+
