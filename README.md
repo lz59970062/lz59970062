@@ -1,14 +1,23 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lz59970062&hide=c&show_icons=true&theme=vue-dark"/>
 
 <p align="left">
-   <h3>吾为赛博机械生命，玄色机械兔是也</h3>
-   <h2>吾致力于赋予机械生命体之生命，恐付之一切义无反顾</h2>
-   <p>夫天下莫大于秋毫之末，而太山为小；莫寿乎殇子，而彭祖为夭。天地与我并生，而万物与我为一。</p>
-   <p>天下に秋毫の末より大きいものはなく、太山は小さいという。殇子より寿命の長い者はなく、彭祖は夭折したという。天地と私はともに生まれ、万物と私は一体である。既に一体であるならば、言葉が必要であろうか？既に一体と言ったならば、言葉が不要であろうか？一と言葉は二となり、二と一は三となる。このようにして以降、巧みな計算も得られない。ましてや凡人にできようか？だから、無から有へ至るまで三になることもなく、ましてや有から有へ至ることもない。無から有へ至ることができないのだから、そのままでよい。</p>
-   <p>Patience is key in the life</p>
-   <p>Holding onto reality is not at the cost of dreams but built upon dreams!</p>
-   <p>o.O<p>
-   <h3>I love everone!</h3>
+ <h3>The people who are crazy enough to think they can change the world, are the ones who do.</h3>   
+  
+   <p>独立寒秋，湘江北去，橘子洲头。
+
+看万山红遍，层林尽染，漫江碧透，百舸争流。
+
+鹰击长空，鱼翔浅底，万类霜天竞自由。
+
+怅寥廓，问苍茫大地，谁主沉浮。
+
+携来百侣曾游，忆往昔峥嵘岁月稠。
+
+恰同学少年，风华正茂，书生意气，挥斥方遒。
+
+指点江山，激扬文字，粪土当年万户侯。
+
+曾记否，到中流击水，浪遏飞舟。</p>
    <p>...</p>
 </p>
 <br>
